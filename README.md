@@ -15,9 +15,10 @@ the following are the data from YOLO v11 <br>
 
 ## Contributors
 
-111ZU1010 HU, CHU-YI
-111ZU1023 JI, HONG-ZHAO
-111306039 LI, YU-WEI
+National Chengchi University Data Science course
+111ZU1010 HU, CHU-YI </br>
+111ZU1023 JI, HONG-ZHAO </br>
+111306039 LI, YU-WEI </br>
 
 
 ## Acknowledgments
