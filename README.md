@@ -15,7 +15,7 @@ the following are the data from YOLO v11 <br>
 
 ## Contributors
 
-National Chengchi University Data Science course
+National Chengchi University Data Science course </br>
 111ZU1010 HU, CHU-YI </br>
 111ZU1023 JI, HONG-ZHAO </br>
 111306039 LI, YU-WEI </br>
